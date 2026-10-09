@@ -75,5 +75,9 @@ with my own UI styling, edit/delete handling, and
 notifications.
 
 # 👩‍💻 Author
-**Ayesha Shahzad**
-- GitHub: [@aiyu-dev](https://github.com/aiyu-dev)
+*Ayesha Shahzad*
+Frontend Developer | Computer Science Student
+
+- GitHub: [aiyu-dev](https://github.com/aiyu-dev)
+
+⭐ If you like this project, consider giving it a star!
