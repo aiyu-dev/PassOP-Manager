@@ -1,6 +1,6 @@
 # PassOP - Your Personal Password Manager 🔐
 
-PassOP is a modern web application designed to helps you store and manage your website credentials locally in your browser.It provides a simple, clean interface to save, edit, delete, and copy your passwords with ease.
+PassOP is a modern web application designed to help you store and manage your website credentials locally in your browser. It provides a simple, clean interface to save, edit, delete, and copy your passwords with ease.
 
 >⚠️**Note:** This is a learning project built to practice
 React. Passwords are stored unencrypted in the
@@ -57,14 +57,14 @@ npm run dev
 5. Open the local URL shown in the terminal (usually
 http://localhost:5173 ).
 
-# 📚 What I Learned
+## 📚 What I Learned
 - Managing state and side effects with React hooks
 ( useState , useEffect , useRef )
 - Reading and writing data with the localStorage
 API
 - Building responsive UI with Tailwind CSS
 - Adding user feedback with React-Toastify
-- Deploying a Vite + React app on Verce
+- Deploying a Vite + React app on Vercel
 
 ## 🎓 Credits
 This project was built as part of my learning journey,
