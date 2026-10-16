@@ -68,11 +68,7 @@ API
 
 ## 🎓 Credits
 This project was built as part of my learning journey,
-following the tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). I
-implemented the logic and styling manually to
-strengthen my React fundamentals, and customized it
-with my own UI styling, edit/delete handling, and
-notifications.
+following the tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). I typed and built the complete project myself while learning React, localStorage, and deployment.
 
 # 👩‍💻 Author
 *Ayesha Shahzad*
